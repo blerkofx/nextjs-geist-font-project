@@ -1,0 +1,32 @@
+# Core Dependencies
+numpy==1.24.3
+pandas==2.0.3
+requests==2.31.0
+websocket-client==1.6.1
+python-socketio==5.8.0
+eventlet==0.33.3
+
+# Technical Analysis
+TA-Lib==0.4.25
+
+# Security & Encryption
+cryptography==41.0.3
+pycryptodome==3.18.0
+
+# Web Dashboard
+Flask==2.3.2
+Flask-SocketIO==5.3.5
+
+# Data & Time
+python-dateutil==2.8.2
+pytz==2023.3
+
+# Configuration
+pyyaml==6.0.1
+python-dotenv==1.0.0
+
+# Logging & Monitoring
+colorlog==6.7.0
+
+# Trading APIs
+MetaTrader5==5.0.45
